@@ -13,4 +13,4 @@
         name: docker
         state: started
     - name: Running container
-      shell: sudo docker create -it -d --name Calculator bhuvan506/calculator
+      shell: sudo docker run -it -d --name Calculator bhuvan506/calculator
