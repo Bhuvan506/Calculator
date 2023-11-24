@@ -1,4 +1,4 @@
-package org.example;
+package org.example; //imports
 import java.util.*;
 import org.apache.logging.log4j.*;
 
